@@ -66,15 +66,15 @@ main {
 }
 
 .skillbar{
-	width: 100%;
+	width: 80%;
 	background-color: grey;
 }
 
 .skills{
 	text-align: right;
-  padding-top: 10px;
-  padding-bottom: 10px; 
-  color: white;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    color: white;
 }
 
 .html {width: 90%; background-color: #04AA6D;}
@@ -85,3 +85,6 @@ main {
 .python {width: 80%; background-color: #2196F3;}
 .java {width: 82%; background-color: #f44336;}
 .csharp {width: 70%; background-color: yellow;}
+.mysql{width: 90%; background-color: #04AA6D;}
+.hibernate{width: 60%; background-color: #2196F3;}
+.mongodb{width: 70%; background-color: #f44336;}
