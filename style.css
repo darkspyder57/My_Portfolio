@@ -88,3 +88,10 @@ main {
 .mysql{width: 90%; background-color: #04AA6D;}
 .hibernate{width: 60%; background-color: #2196F3;}
 .mongodb{width: 70%; background-color: #f44336;}
+.react{width: 70%; background-color: aqua;}
+.jdbc{width: 60%; background-color: blueviolet;}
+.spring{width: 85%; background-color: chartreuse;}
+
+.projectinner{
+	display: flex;
+}
